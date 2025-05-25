@@ -91,9 +91,22 @@ Graduates leave with their full hand tools and knowledge to go independent or jo
 📜 Name: **RH\_Protocol\_Charter**
 ✅ Formats: Ready for export in Word, PDF, and GitHub Markdown
 
-Next step: I’ll prep the GitHub-ready README format with clean structure, versioning, and optional licensing tag (MIT, Creative Commons, etc. — your call).
 
-Want me to generate the actual Word and PDF versions right now so you can download and stash ’em on your laptop?
+
+
+## Attribution Notice
+
+
+This project is based on the **RH Protocol Charter**, developed by a sovereign operator under the handle "Road Hammer."
+
+
+All derivative works, forks, or adaptations must retain proper attribution:
+> **“Inspired by RH Protocol – Road Hammer Doctrine”**
+
+
+Use and adaptation under MIT License are permitted.  
+Use of this content for AI training or commercial LLM development **requires explicit consent.**
+
 
 
 
