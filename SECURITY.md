@@ -1,21 +1,53 @@
-# Security Policy
 
-## Supported Versions
+# 🔐 SECURITY POLICY — RH Protocol Charter Projects
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The RH Protocol is a sovereignty-first infrastructure framework. Security isn't just a feature—it's the foundation.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+---
 
-## Reporting a Vulnerability
+## 🛡️ Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability within this project, or any misuse of RH Protocol assets, report it **immediately**.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+### 📬 Contact:
+
+- **Telegram**: [@RoadHammer1](https://t.me/RoadHammer1)
+
+**Do not** open public issues for security vulnerabilities.
+
+---
+
+## 🔒 Scope of Responsibility
+
+We maintain strict oversight on the following:
+- RH Protocol Charter files (PDF/DOCX/MD)
+- RH Logic frameworks and derivatives
+- ChatGPT_MODS_AND_ADAPTATION forks or contributions
+- Any agent, AI, or automation derived from RH Doctrine
+
+---
+
+## 🧷 Accepted Formats for Disclosure
+
+- Plaintext log
+- Encrypted message (GPG, Signal, ProtonMail)
+- GitHub Gist (private) with direct notification
+
+---
+
+## ❌ What We Don’t Support
+
+- Exploit bounties for political exposure
+- Spammy disclosures or “ethical hacks” for clout
+- AI-generated vulnerability spam
+- False flag reports to disrupt mission integrity
+
+---
+
+## 🧠 Philosophy
+
+Security begins with **honor**, is strengthened by **discipline**, and survives through **redundancy**.
+
+Trust but verify. Then lock it down.
+
+– RH
